@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '274'
     url: http://www.gutenberg.org/2009/agents/274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30239#The-Babe-in-the-Bulrushes
 gutenberg_issued: '2009-10-12'
 gutenberg_type: Text
 identifiers:
